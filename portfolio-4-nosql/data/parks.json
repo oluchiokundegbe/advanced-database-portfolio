@@ -1,0 +1,262 @@
+[
+ {
+  "_id": 1,
+  "name": "Jibowu Motor Park",
+  "city": "Lagos",
+  "state": "Lagos",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    3.3792,
+    6.5156
+   ]
+  }
+ },
+ {
+  "_id": 2,
+  "name": "Mile 1 Motor Park",
+  "city": "Port Harcourt",
+  "state": "Rivers",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.0134,
+    4.79
+   ]
+  }
+ },
+ {
+  "_id": 3,
+  "name": "Utako Motor Park",
+  "city": "Abuja",
+  "state": "FCT",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.4398,
+    9.064
+   ]
+  }
+ },
+ {
+  "_id": 4,
+  "name": "Ring Road Park",
+  "city": "Benin City",
+  "state": "Edo",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    5.6145,
+    6.335
+   ]
+  }
+ },
+ {
+  "_id": 5,
+  "name": "Upper Iweka Park",
+  "city": "Onitsha",
+  "state": "Anambra",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    6.785,
+    6.145
+   ]
+  }
+ },
+ {
+  "_id": 6,
+  "name": "Ojota New Garage",
+  "city": "Lagos",
+  "state": "Lagos",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    3.383,
+    6.5833
+   ]
+  }
+ },
+ {
+  "_id": 7,
+  "name": "Iyana Ipaja Park",
+  "city": "Lagos",
+  "state": "Lagos",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    3.2667,
+    6.61
+   ]
+  }
+ },
+ {
+  "_id": 8,
+  "name": "Waterlines Park",
+  "city": "Port Harcourt",
+  "state": "Rivers",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.0217,
+    4.8122
+   ]
+  }
+ },
+ {
+  "_id": 9,
+  "name": "Jabi Motor Park",
+  "city": "Abuja",
+  "state": "FCT",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.4235,
+    9.07
+   ]
+  }
+ },
+ {
+  "_id": 10,
+  "name": "Iwo Road Park",
+  "city": "Ibadan",
+  "state": "Oyo",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    3.947,
+    7.404
+   ]
+  }
+ },
+ {
+  "_id": 11,
+  "name": "Holy Ghost Park",
+  "city": "Enugu",
+  "state": "Enugu",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.495,
+    6.44
+   ]
+  }
+ },
+ {
+  "_id": 12,
+  "name": "Owerri Main Park",
+  "city": "Owerri",
+  "state": "Imo",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.0352,
+    5.4836
+   ]
+  }
+ },
+ {
+  "_id": 13,
+  "name": "Ariaria Park",
+  "city": "Aba",
+  "state": "Abia",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.36,
+    5.115
+   ]
+  }
+ },
+ {
+  "_id": 14,
+  "name": "Kano Line",
+  "city": "Kano",
+  "state": "Kano",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    8.52,
+    12.0
+   ]
+  }
+ },
+ {
+  "_id": 15,
+  "name": "Kawo Motor Park",
+  "city": "Kaduna",
+  "state": "Kaduna",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.45,
+    10.56
+   ]
+  }
+ },
+ {
+  "_id": 16,
+  "name": "Uyo Main Park",
+  "city": "Uyo",
+  "state": "Akwa Ibom",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    7.93,
+    5.04
+   ]
+  }
+ },
+ {
+  "_id": 17,
+  "name": "Calabar Highway Park",
+  "city": "Calabar",
+  "state": "Cross River",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    8.33,
+    4.95
+   ]
+  }
+ },
+ {
+  "_id": 18,
+  "name": "Warri Main Park",
+  "city": "Warri",
+  "state": "Delta",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    5.75,
+    5.52
+   ]
+  }
+ },
+ {
+  "_id": 19,
+  "name": "Asaba Park",
+  "city": "Asaba",
+  "state": "Delta",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    6.73,
+    6.2
+   ]
+  }
+ },
+ {
+  "_id": 20,
+  "name": "Ilorin Post Office Park",
+  "city": "Ilorin",
+  "state": "Kwara",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    4.55,
+    8.49
+   ]
+  }
+ }
+]

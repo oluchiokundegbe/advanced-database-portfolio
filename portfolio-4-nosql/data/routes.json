@@ -1,0 +1,254 @@
+[
+ {
+  "from": "Jibowu Motor Park",
+  "to": "Ojota New Garage",
+  "distance_km": 10,
+  "est_hours": 0.2
+ },
+ {
+  "from": "Ojota New Garage",
+  "to": "Jibowu Motor Park",
+  "distance_km": 10,
+  "est_hours": 0.2
+ },
+ {
+  "from": "Jibowu Motor Park",
+  "to": "Iyana Ipaja Park",
+  "distance_km": 15,
+  "est_hours": 0.2
+ },
+ {
+  "from": "Iyana Ipaja Park",
+  "to": "Jibowu Motor Park",
+  "distance_km": 15,
+  "est_hours": 0.2
+ },
+ {
+  "from": "Ojota New Garage",
+  "to": "Iwo Road Park",
+  "distance_km": 125,
+  "est_hours": 2.1
+ },
+ {
+  "from": "Iwo Road Park",
+  "to": "Ojota New Garage",
+  "distance_km": 125,
+  "est_hours": 2.1
+ },
+ {
+  "from": "Iyana Ipaja Park",
+  "to": "Iwo Road Park",
+  "distance_km": 120,
+  "est_hours": 2.0
+ },
+ {
+  "from": "Iwo Road Park",
+  "to": "Iyana Ipaja Park",
+  "distance_km": 120,
+  "est_hours": 2.0
+ },
+ {
+  "from": "Jibowu Motor Park",
+  "to": "Ring Road Park",
+  "distance_km": 320,
+  "est_hours": 5.3
+ },
+ {
+  "from": "Ring Road Park",
+  "to": "Jibowu Motor Park",
+  "distance_km": 320,
+  "est_hours": 5.3
+ },
+ {
+  "from": "Iwo Road Park",
+  "to": "Ilorin Post Office Park",
+  "distance_km": 160,
+  "est_hours": 2.7
+ },
+ {
+  "from": "Ilorin Post Office Park",
+  "to": "Iwo Road Park",
+  "distance_km": 160,
+  "est_hours": 2.7
+ },
+ {
+  "from": "Ilorin Post Office Park",
+  "to": "Utako Motor Park",
+  "distance_km": 500,
+  "est_hours": 8.3
+ },
+ {
+  "from": "Utako Motor Park",
+  "to": "Ilorin Post Office Park",
+  "distance_km": 500,
+  "est_hours": 8.3
+ },
+ {
+  "from": "Utako Motor Park",
+  "to": "Jabi Motor Park",
+  "distance_km": 8,
+  "est_hours": 0.1
+ },
+ {
+  "from": "Jabi Motor Park",
+  "to": "Utako Motor Park",
+  "distance_km": 8,
+  "est_hours": 0.1
+ },
+ {
+  "from": "Utako Motor Park",
+  "to": "Kawo Motor Park",
+  "distance_km": 190,
+  "est_hours": 3.2
+ },
+ {
+  "from": "Kawo Motor Park",
+  "to": "Utako Motor Park",
+  "distance_km": 190,
+  "est_hours": 3.2
+ },
+ {
+  "from": "Kawo Motor Park",
+  "to": "Kano Line",
+  "distance_km": 230,
+  "est_hours": 3.8
+ },
+ {
+  "from": "Kano Line",
+  "to": "Kawo Motor Park",
+  "distance_km": 230,
+  "est_hours": 3.8
+ },
+ {
+  "from": "Ring Road Park",
+  "to": "Warri Main Park",
+  "distance_km": 100,
+  "est_hours": 1.7
+ },
+ {
+  "from": "Warri Main Park",
+  "to": "Ring Road Park",
+  "distance_km": 100,
+  "est_hours": 1.7
+ },
+ {
+  "from": "Ring Road Park",
+  "to": "Asaba Park",
+  "distance_km": 135,
+  "est_hours": 2.2
+ },
+ {
+  "from": "Asaba Park",
+  "to": "Ring Road Park",
+  "distance_km": 135,
+  "est_hours": 2.2
+ },
+ {
+  "from": "Asaba Park",
+  "to": "Upper Iweka Park",
+  "distance_km": 10,
+  "est_hours": 0.2
+ },
+ {
+  "from": "Upper Iweka Park",
+  "to": "Asaba Park",
+  "distance_km": 10,
+  "est_hours": 0.2
+ },
+ {
+  "from": "Upper Iweka Park",
+  "to": "Holy Ghost Park",
+  "distance_km": 105,
+  "est_hours": 1.8
+ },
+ {
+  "from": "Holy Ghost Park",
+  "to": "Upper Iweka Park",
+  "distance_km": 105,
+  "est_hours": 1.8
+ },
+ {
+  "from": "Upper Iweka Park",
+  "to": "Owerri Main Park",
+  "distance_km": 110,
+  "est_hours": 1.8
+ },
+ {
+  "from": "Owerri Main Park",
+  "to": "Upper Iweka Park",
+  "distance_km": 110,
+  "est_hours": 1.8
+ },
+ {
+  "from": "Holy Ghost Park",
+  "to": "Utako Motor Park",
+  "distance_km": 470,
+  "est_hours": 7.8
+ },
+ {
+  "from": "Utako Motor Park",
+  "to": "Holy Ghost Park",
+  "distance_km": 470,
+  "est_hours": 7.8
+ },
+ {
+  "from": "Owerri Main Park",
+  "to": "Ariaria Park",
+  "distance_km": 65,
+  "est_hours": 1.1
+ },
+ {
+  "from": "Ariaria Park",
+  "to": "Owerri Main Park",
+  "distance_km": 65,
+  "est_hours": 1.1
+ },
+ {
+  "from": "Ariaria Park",
+  "to": "Mile 1 Motor Park",
+  "distance_km": 65,
+  "est_hours": 1.1
+ },
+ {
+  "from": "Mile 1 Motor Park",
+  "to": "Ariaria Park",
+  "distance_km": 65,
+  "est_hours": 1.1
+ },
+ {
+  "from": "Mile 1 Motor Park",
+  "to": "Waterlines Park",
+  "distance_km": 5,
+  "est_hours": 0.1
+ },
+ {
+  "from": "Waterlines Park",
+  "to": "Mile 1 Motor Park",
+  "distance_km": 5,
+  "est_hours": 0.1
+ },
+ {
+  "from": "Mile 1 Motor Park",
+  "to": "Uyo Main Park",
+  "distance_km": 120,
+  "est_hours": 2.0
+ },
+ {
+  "from": "Uyo Main Park",
+  "to": "Mile 1 Motor Park",
+  "distance_km": 120,
+  "est_hours": 2.0
+ },
+ {
+  "from": "Uyo Main Park",
+  "to": "Calabar Highway Park",
+  "distance_km": 75,
+  "est_hours": 1.2
+ },
+ {
+  "from": "Calabar Highway Park",
+  "to": "Uyo Main Park",
+  "distance_km": 75,
+  "est_hours": 1.2
+ }
+]
