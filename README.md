@@ -1,5 +1,7 @@
 # Advanced Database Systems Portfolio — ParcelPark
 
+**Student:** Oluchi Augustina Okundegbe | **Student ID:** 301856639 | **Repository:** https://github.com/oluchiokundegbe/advanced-database-portfolio
+
 MIT 8103 Advanced Database Systems | Miva Open University | 2026/2027 First Semester
 
 ## Selected Case Study
@@ -15,12 +17,14 @@ MIT 8103 Advanced Database Systems | Miva Open University | 2026/2027 First Seme
 
 | Folder | Activity | Status |
 |---|---|---|
-| `portfolio-1-database-design/` | ER diagram, relational schema, constraints, normalisation | In progress |
-| `portfolio-2-query-optimisation/` | SQL queries, execution plans, indexing | Not started |
-| `portfolio-3-transactions-concurrency/` | Commit, rollback, isolation, concurrency control | Not started |
-| `portfolio-4-nosql/` | NoSQL model of ParcelPark | Not started |
-| `portfolio-5-distributed-cloud/` | Replication, sharding, cloud deployment | Not started |
+| `portfolio-1-database-design/` | ER diagram, relational schema, constraints, normalisation | Complete |
+| `portfolio-2-query-optimisation/` | SQL queries, execution plans, indexing, materialized view | Complete |
+| `portfolio-3-transactions-concurrency/` | Commit, rollback, savepoints, isolation levels, locking, SERIALIZABLE, deadlock | Complete |
+| `portfolio-4-nosql/` | MongoDB document model, indexing, aggregation, geospatial and graph queries, validation | Complete |
+| `portfolio-5-distributed-cloud/` | MongoDB Atlas deployment, replication, write concerns, sharding design | Complete |
+
+Each folder has its own README explaining how the work was implemented and tested, the scripts in run order, and a `screenshots/` folder with the evidence.
 
 ## Tools
 
-PostgreSQL 17 (relational), MongoDB (NoSQL, Portfolio 4), and a cloud PostgreSQL provider (Portfolio 5).
+PostgreSQL 17 with pgAdmin 4 (Portfolios 1-3); MongoDB 8.0 on MongoDB Atlas (AWS, Paris) with MongoDB Compass (Portfolios 4-5); VS Code and Git.
